@@ -1,3 +1,4 @@
+# PR #7 - Verify improved security bot messaging
 from pathlib import Path
 
 import click
